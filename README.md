@@ -44,46 +44,7 @@ Retrieval-Augmented Generation (RAG) combines:
 
 ---
 
-## ⚙️ Installation
 
-### 1️⃣ Clone the repo
-
-```
-git clone https://github.com/your-username/rag-project.git
-cd rag-project
-```
-
-### 2️⃣ Install dependencies
-
-```
-pip install -r requirements.txt
-```
-
-### 3️⃣ Add API Key
-
-Create a `.env` file:
-
-```
-OPENAI_API_KEY=your_api_key_here
-```
-
----
-
-## ▶️ Usage
-
-Run the application:
-
-```
-python app.py
-```
-
-Enter your query:
-
-```
-Ask: What is RAG?
-```
-
----
 
 ## 🔄 How It Works
 
