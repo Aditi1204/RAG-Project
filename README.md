@@ -95,17 +95,6 @@ A: RAG is a technique that combines retrieval and generation...
 
 ---
 
-## 🤝 Contributing
-
-Pull requests are welcome! Feel free to improve the project.
-
----
-
-## 📜 License
-
-MIT License
-
----
 
 ## ⭐ Acknowledgements
 
